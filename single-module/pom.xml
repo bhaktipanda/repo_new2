@@ -160,14 +160,14 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git:git@github.com:gabrielf/maven-samples.git</connection>
-    <developerConnection>scm:git:git@github.com:gabrielf/maven-samples.git</developerConnection>
+    <connection>scm:git:git@github.com:bhaktipanda/MyOwnRepo.git</connection>
+    <developerConnection>scm:git:git@github.com:bhaktipanda/MyOwnRepo.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/gabrielf/maven-samples</url>
+    <url>http://github.com/bhaktipanda/MyOwnRepo</url>
   </scm>
 
   <prerequisites>
-    <maven>3.0.3</maven>
+    <maven>3.5.0</maven>
   </prerequisites>
 
 </project>
